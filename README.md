@@ -8,7 +8,7 @@
 
 # About me
 
-I am ~paranoia~ - web-developer and crypto-enthusiast. Skilled in Python Django and React.js. 
+I am ~paranoia~ - web-developer and cryptodev. Skilled in Python Django and React.js. 
 
 ![](https://komarev.com/ghpvc/?username=is-paranoia)
   
