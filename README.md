@@ -8,7 +8,7 @@
 
 # About me
 
-I am ~paranoia~ - web- and crypto-developer. Skilled in Python Django and React.js. 
+I am ~paranoia~ - web- and crypto-developer. Skilled in Node.js + React.js. 
 
 ![](https://komarev.com/ghpvc/?username=is-paranoia)
   
@@ -33,6 +33,6 @@ I am ~paranoia~ - web- and crypto-developer. Skilled in Python Django and React.
 [![trophy](https://github-profile-trophy.vercel.app/?username=is-paranoia&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=FFFFFF&height=200&text=Thanks%20for%20your%20attention!&fontAlign=50&fontAlignY=70&fontSize=48&fontColor=212529&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=FFFFFF&height=200&fontAlign=50&fontAlignY=70&fontSize=48&fontColor=212529&animation=fadeIn)
 
 </div>
