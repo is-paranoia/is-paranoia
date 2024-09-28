@@ -1,38 +1,24 @@
-<div align="center">
+```bash
+# Hi! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=250&section=header&text=You%20know%20me%20as&fontAlign=35&fontAlignY=35&fontSize=60&fontColor=212529&animation=fadeIn&desc=paranoia&descAlign=75&descAlignY=55&descSize=60)
-</div>
-<div align="justify">
+# I'm Ilya
+# 🌍 Frontend Developer | 🌱 Grow up | 🔭 Looking for interesting projects
 
-<div align="center">
+# 📈 My Current Status
+echo "Currently working on a CRM system" 
+echo "Previously worked on a design system, component library, screenshot testing, memory leaks, and web workers"
+echo "Open to job offers"
 
-# About me
+# 🌌 Interests
+echo "Interested in biotech, astronomy, artificial intelligence, and web development"
 
-I am ~paranoia~ - web- and crypto-developer. Skilled in Node.js + React.js. 
+# 🛠️ My Technologies
+declare -a technologies=("JavaScript" "TypeScript" "React.js" "MobX" "MongoDB" "PostgreSQL" "Git")
 
-![](https://komarev.com/ghpvc/?username=is-paranoia)
-  
-</div>
+# 📫 How to Reach Me
+curl -s https://api.github.com/users/is-paranoia | jq '.email'
 
-<div align="center">
+📚 My Projects
+frntln.xyz - Showcase.
 
-| Theme | Skills |
-| ------------- |:-------------:|
-| Fundamentals      | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
-| Frameworks      | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| Databases | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| OS | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| Other | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |
-
-# Achievements
-
-| CodeWars | [![codewars](https://www.codewars.com/users/is-paranoia/badges/large)](https://www.codewars.com/users/is-paranoia) |
-| ------------- |:-------------:|
-| GitHub | [![Paranoia GitHub stats](https://github-readme-stats.vercel.app/api?username=is-paranoia&theme=graywhite)](https://github.com/is-paranoia/github-readme-stats) |
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=is-paranoia&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=FFFFFF&height=200&fontAlign=50&fontAlignY=70&fontSize=48&fontColor=212529&animation=fadeIn)
-
-</div>
+Thanks for stopping by! 🌟
