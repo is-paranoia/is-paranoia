@@ -2,8 +2,8 @@
 # Hi! 👋
 
 # I'm Ilya
-# 🌍 Frontend Developer
-# Tyumen, Russian Federation
+# Frontend Developer
+# 🌍 Tyumen, Russian Federation
 
 # 📈 My Current Status
 # Currently working on a CRM system
